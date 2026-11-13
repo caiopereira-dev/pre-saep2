@@ -1,0 +1,6 @@
+CENÁRIO 3 — SAÍDA IGUAL AO SALDO
+Pré-condição: Detergente com saldo 10.
+Entrada: saída de 10.
+Execução: teste automatizado test_03_saida_igual_ao_saldo_zerada.
+Obtido: saída registrada; novo saldo 0; histórico contém a movimentação.
+Conclusão: APROVADO.
