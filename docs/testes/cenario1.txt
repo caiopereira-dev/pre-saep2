@@ -1,0 +1,7 @@
+CENÁRIO 1 — SAÍDA MAIOR QUE O SALDO
+Pré-condição: Detergente com saldo 10.
+Entrada: saída de 11.
+Execução: teste automatizado test_01_saida_maior_que_saldo_bloqueada.
+Obtido: bloqueio com mensagem “Saída não permitida: estoque insuficiente. Disponível: 10. Solicitado: 11.”
+Verificação: saldo permaneceu 10; nenhuma movimentação foi gravada.
+Conclusão: APROVADO.

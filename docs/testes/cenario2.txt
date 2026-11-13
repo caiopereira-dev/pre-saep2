@@ -1,0 +1,6 @@
+CENÁRIO 2 — SAÍDA MENOR QUE O SALDO
+Pré-condição: Detergente com saldo 10.
+Entrada: saída de 4.
+Execução: teste automatizado test_02_saida_dentro_do_saldo_registrada.
+Obtido: saída registrada; novo saldo 6; histórico contém tipo, quantidade, data/hora e usuário operador.
+Conclusão: APROVADO.
